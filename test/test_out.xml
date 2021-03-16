@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Skyle Windows App</title>
+		<link>https://eyev.de/dl/windows/appcast.xml</link>
+		<description>App to use the Skyle Eyetracker for Windows made by eyeV GmbH.</description>
+		<item>
+			<title>Version 1.0</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Mon, 15 Mar 2021 06:21:15 +8680</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/Skyle.msi" sparkle:version="1.0" sparkle:os="windows" length="77777" type="application/octet-stream" sparkle:signature="SIGNATURE NOT GENERATED YET"/>
+		</item>
+	</channel>
+</rss>
