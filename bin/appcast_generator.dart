@@ -66,8 +66,8 @@ class AddCommand extends Command {
       ..addOption('file-url', abbr: 'u')
       ..addOption('operating-system', abbr: 'o')
       ..addOption('file')
-      ..addOption('private-key-file', abbr: 'p', defaultsTo: 'private.key')
-      ..addOption('public-key-file', abbr: 'p', defaultsTo: 'public.key')
+      ..addOption('private-key-file', defaultsTo: 'private.key')
+      ..addOption('public-key-file', defaultsTo: 'public.key')
       ..addOption('version', abbr: 'v');
   }
 
