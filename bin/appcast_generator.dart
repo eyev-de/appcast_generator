@@ -17,7 +17,8 @@ class CreateCommand extends Command {
       ..addOption('title', abbr: 't')
       ..addOption('url', abbr: 'u')
       ..addOption('description', abbr: 'd')
-      ..addOption('language', abbr: 'l', defaultsTo: 'en');
+      ..addOption('language', abbr: 'l', defaultsTo: 'en')
+      ..addFlag('download');
   }
 
   Future<void> run() async {
@@ -28,12 +29,13 @@ class CreateCommand extends Command {
         final String? url = argResults!['url'];
         final String? description = argResults!['description'];
         final String language = argResults!['language'];
+        final bool download = argResults!['download'];
         if (path == null) throw 'Please provide the name of the Appcast file to be created.';
         if (title == null) throw 'Please provide the title of the Appcast.';
         if (url == null) throw 'Please provide the link to the Appcast.';
         if (description == null) throw 'Please provide the description of the Appcast.';
         File file = File(path);
-        if (!file.existsSync()) {
+        if (!file.existsSync() && download) {
           print("Try to download $url");
           await FileHandler.download(url: url, path: path);
           return;
