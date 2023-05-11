@@ -75,20 +75,15 @@ class AppcastUtil {
               itemDescription = childNode.text;
             } else if (name == AppcastConstants.ElementEnclosure) {
               childNode.attributes.forEach((XmlAttribute attribute) {
-                if (attribute.name.toString() ==
-                    AppcastConstants.AttributeVersion) {
+                if (attribute.name.toString() == AppcastConstants.AttributeVersion) {
                   enclosureVersion = attribute.value;
-                } else if (attribute.name.toString() ==
-                    AppcastConstants.AttributeOsType) {
+                } else if (attribute.name.toString() == AppcastConstants.AttributeOsType) {
                   osString = attribute.value;
-                } else if (attribute.name.toString() ==
-                    AppcastConstants.AttributeURL) {
+                } else if (attribute.name.toString() == AppcastConstants.AttributeURL) {
                   fileURL = attribute.value;
-                } else if (attribute.name.toString() ==
-                    AppcastConstants.AttributeLength) {
+                } else if (attribute.name.toString() == AppcastConstants.AttributeLength) {
                   length = int.tryParse(attribute.value);
-                } else if (attribute.name.toString() ==
-                    AppcastConstants.AttributeSignature) {
+                } else if (attribute.name.toString() == AppcastConstants.AttributeSignature) {
                   signature = attribute.value;
                 }
               });
@@ -191,22 +186,12 @@ class AppcastUtil {
             });
           for (final item in appcast.items)
             builder.element('item', nest: () {
-              if (item.title == null)
-                return error = 'Please provide the title of this update.';
-              if (item.dateString == null)
-                return error =
-                    'Please provide the release date of this update.';
-              if (item.fileURL == null)
-                return error =
-                    'Please provide a download link for this update.';
-              if (item.versionString == null)
-                return error =
-                    'Please provide a version string for this update.';
-              if (item.contentLength == null)
-                return error =
-                    'Please provide the content length in bytes of this update.';
-              if (item.signature == null)
-                return error = 'Please provide a signature';
+              if (item.title == null) return error = 'Please provide the title of this update.';
+              if (item.dateString == null) return error = 'Please provide the release date of this update.';
+              if (item.fileURL == null) return error = 'Please provide a download link for this update.';
+              if (item.versionString == null) return error = 'Please provide a version string for this update.';
+              if (item.contentLength == null) return error = 'Please provide the content length in bytes of this update.';
+              if (item.signature == null) return error = 'Please provide a signature';
               builder.element('title', nest: () {
                 builder.text(item.title!);
               });
@@ -292,17 +277,14 @@ class AppcastConstants {
   static const String AttributeDSASignature = 'sparkle:dsaSignature';
   static const String AttributeEDSignature = 'sparkle:edSignature';
   static const String AttributeSignature = 'sparkle:signature';
-  static const String AttributeShortVersionString =
-      'sparkle:shortVersionString';
+  static const String AttributeShortVersionString = 'sparkle:shortVersionString';
   static const String AttributeVersion = 'sparkle:version';
   static const String AttributeOsType = 'sparkle:os';
 
   static const String ElementCriticalUpdate = 'sparkle:criticalUpdate';
   static const String ElementDeltas = 'sparkle:deltas';
-  static const String ElementMinimumSystemVersion =
-      'sparkle:minimumSystemVersion';
-  static const String ElementMaximumSystemVersion =
-      'sparkle:maximumSystemVersion';
+  static const String ElementMinimumSystemVersion = 'sparkle:minimumSystemVersion';
+  static const String ElementMaximumSystemVersion = 'sparkle:maximumSystemVersion';
   static const String ElementReleaseNotesLink = 'sparkle:releaseNotesLink';
   static const String ElementTags = 'sparkle:tags';
 
