@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+	<channel>
+		<title>Skyle Windows App</title>
+		<link>https://eyev.de/dl/windows/appcast.xml</link>
+		<description>App to manage the Skyle Eyetracker for Windows made by eyeV GmbH.</description>
+		<language>en</language>
+		<item>
+			<title>Version 1.5.7745.22093</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 16 Mar 2021 12:30:36 +8970</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7745.22093/Skyle.msi" sparkle:version="1.5.7745.22093" sparkle:os="windows" length="85942272" type="application/octet-stream" sparkle:signature="gS+KBo2WuxuE6FlYl5OzyTmDnlVhbw4lPZI4p2we0kzrJvRDslw3viyovNtS+LscIUVPgavLDoBWcd5Vq55lDw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7745.22093</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7745.22093/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 16 Mar 2021 12:39:48 +1940</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7745.22093/Skyle.msi" sparkle:version="1.5.7745.22093" sparkle:os="windows" length="85942272" type="application/octet-stream" sparkle:signature="xAk3TR7cpysB5pHMJos3flnNrJI1p8s9qHqIGGwhuB6L51GAciErZ5alr4C9h/mSEsdx55Cg6CY4wCqGXJF1CQ=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7745.32529</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7745.32529/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 16 Mar 2021 06:06:41 +4270</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7745.32529/Skyle.msi" sparkle:version="1.5.7745.32529" sparkle:os="windows" length="86040576" type="application/octet-stream" sparkle:signature="ZXdbjxCAjUQZd227DPJc2B5yGgpUUABNH2inH2vcKDw2COZu1x7ejtF0BipP1VYc1xPr9pWj2oKw/oJG1c4VBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7745.32851</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7745.32851/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 16 Mar 2021 06:17:41 +3510</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7745.32851/Skyle.msi" sparkle:version="1.5.7745.32851" sparkle:os="windows" length="86040576" type="application/octet-stream" sparkle:signature="Az7AJcBcDscFmvLqjXBhDD2oMYQ+Fdtnpu4JI9RwhvUCjtApvs6dYOWWbbllyLq311GSFsp3zmisXMFa+SujCw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.19586</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.19586/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 10:55:13 +1810</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.19586/Skyle.msi" sparkle:version="1.5.7746.19586" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="I9CcK/EiM+ZQ2ZssXN7OyL9ySu5hciQR2fGkAhHgaDQlu+hNlVm/NXwbmIK7KAg/0+w1KfdPwWmtA0F+NohiBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.22424</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.22424/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 12:29:46 +2740</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.22424/Skyle.msi" sparkle:version="1.5.7746.22424" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="VIVlLXf85EkM93ZwWxYMWFV/qy9mBcUeIkiKsFX3vfNcl69qSArd5nc8KyM+NBIEamksfl7bhL0Sgeqs6HG8Ag=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.25672</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.25672/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 02:18:00 +7740</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.25672/Skyle.msi" sparkle:version="1.5.7746.25672" sparkle:os="windows" length="86052864" type="application/octet-stream" sparkle:signature="dPIDzVSKjifrmWurGZl6jU5RsuSYoE0wcBUFmaJ1QUlbDAI8VuKNg+mJ/mj+VzGStsLXscNXG+WwO83sNPpwBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.26212</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.26212/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 02:35:57 +3500</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.26212/Skyle.msi" sparkle:version="1.5.7746.26212" sparkle:os="windows" length="86052864" type="application/octet-stream" sparkle:signature="x317rwR5+T/thaeMZYrdL6hYlVsFgi+wnrqerLeOV+2Bih0L8a9G/yfEX2Ma9U3Y2SBFV4RTEOvhWqg1gX6qBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.28937</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.28937/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 04:06:51 +2590</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.28937/Skyle.msi" sparkle:version="1.5.7746.28937" sparkle:os="windows" length="86052864" type="application/octet-stream" sparkle:signature="NL+cZMeBkuDzbloG1auOgQsE5DAS3EDHfK+/YEQmN12Mwx9ldmH09oCc1uezE6cDOjTGMxuTSFcU7rCIUJzcDA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7746.31193</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7746.31193/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 17 Mar 2021 05:22:01 +1010</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7746.31193/Skyle.msi" sparkle:version="1.5.7746.31193" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="SR6651njheSDQEXS4o6gv4AgNOgD8DT/H/aE+Nyui9TdYqtXZEU/PVrLc/uuizFL0Fvzoz6gmAQuhFHLXBD1AA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.24591</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.24591/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 01:42:06 +9440</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.24591/Skyle.msi" sparkle:version="1.5.7747.24591" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="4v1Ow/gaqNdqCze7nt6eAozln0dhjiytYRyzx7VLr8hZj8/aQngnZO5aRWLQ5MF5wgO+1D1AvwreVI2ahB5ZCA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.25009</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.25009/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 01:55:54 +5020</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.25009/Skyle.msi" sparkle:version="1.5.7747.25009" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="NqqI+npME6P8hcRIrM2CC0Ol2wzghD+GZ3hYDl3Kizq3bOO/GvNfiKBwghqsdS5yhyqzvZikAEog6eoVrLWqDA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.25270</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.25270/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 02:04:37 +1130</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.25270/Skyle.msi" sparkle:version="1.5.7747.25270" sparkle:os="windows" length="86044672" type="application/octet-stream" sparkle:signature="UWUY1LyonjG8Q7/kwVEYk6Kc3w7RMwd7zoueLqq2kwfTXJr87sTzQdF3cZ/xpQn8ogemAoNgNF2zzB3kvgAIAg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.26895</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.26895/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 02:58:44 +3730</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.26895/Skyle.msi" sparkle:version="1.5.7747.26895" sparkle:os="windows" length="86048768" type="application/octet-stream" sparkle:signature="yHL6/TwFCazbvEHws9Xq4lXM5YqLPq654JRvLDeqPyupldNIq+dWL9gI6KvBqr3Iz5xv6j4Z2XK3NXfKkLIcCw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.27019</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.27019/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 03:02:50 +9840</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.27019/Skyle.msi" sparkle:version="1.5.7747.27019" sparkle:os="windows" length="86048768" type="application/octet-stream" sparkle:signature="hF+dmUFn0+mH+OI+50l9wF4Ix1Ma+MAv2QDsbN2nxm9XqZvjCDp8LZ2H2vjN2yzHtuMl+M6dE15WUBqruXwfBg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.30969</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.30969/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 06:36:20 +4570</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.30969/Skyle.msi" sparkle:version="1.5.7747.30969" sparkle:os="windows" length="86048768" type="application/octet-stream" sparkle:signature="YDCNm5zzW7PdJnVyb/RfXhFHZUPkKckZb12hKK56dxEjiIwzDXcKM9LHfJCKrBaDVlMOJT91Yi3HshNYhVScDA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.33654</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.33654/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 07:24:55 +3050</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.33654/Skyle.msi" sparkle:version="1.5.7747.33654" sparkle:os="windows" length="86048768" type="application/octet-stream" sparkle:signature="fU4pbOiyKZ/5XqZCPOI/QgQF1hZ/u9q5IBUwyo0H+6vvFCb94yINn82oIsbJ/CAueZfAQHyBeLcmMy2AywXIAA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7747.35891</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7747.35891/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 18 Mar 2021 07:58:47 +0550</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7747.35891/Skyle.msi" sparkle:version="1.5.7747.35891" sparkle:os="windows" length="86048768" type="application/octet-stream" sparkle:signature="pSMuelnLlaqmV9jDjgy3hLQH7jBnekKAmqzlH4ev9pfrxzKVnbd29TWnnU1hryc5W0bqA2P5XRPg+qS5y1y7Dg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7751.31747</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7751.31747/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Mon, 22 Mar 2021 05:40:33 +9280</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7751.31747/Skyle.msi" sparkle:version="1.5.7751.31747" sparkle:os="windows" length="86183936" type="application/octet-stream" sparkle:signature="c0KwGFZ68oZZ/m0sH9s01VJX/DnO1/+182ZikJhQ9VeMg2SB+BMiymK3RQNFqyw+MlqbqkpkrJ390mwIqpAwDw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7751.32182</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7751.32182/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Mon, 22 Mar 2021 05:55:01 +1760</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7751.32182/Skyle.msi" sparkle:version="1.5.7751.32182" sparkle:os="windows" length="86188032" type="application/octet-stream" sparkle:signature="EPQ05cPmd4DUKD+cGo0NiPKTi5dSCQXoDdGSjPV+rTsx69tJtyUrwmQpGT+WbRAUShLpElKZkjKwLGq+5LbeBQ=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7759.26285</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7759.26285/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 30 Mar 2021 02:38:25 +5010</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7759.26285/Skyle.msi" sparkle:version="1.5.7759.26285" sparkle:os="windows" length="86261760" type="application/octet-stream" sparkle:signature="gu92/sLuzt9EuDzRUsA0YYFFL5Oj0XDMykpseqYodDp2POJ1AGo8JyqbqVOZuQjgotOOujD/Y7/Owd5O0v1GBw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7759.35343</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7759.35343/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 30 Mar 2021 07:40:32 +5840</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7759.35343/Skyle.msi" sparkle:version="1.5.7759.35343" sparkle:os="windows" length="86261760" type="application/octet-stream" sparkle:signature="blrbZqrVI7W6W0y99WOqlRksXKedvrDIbuEEVIZU45O9453tEaG53QHL6FvminUVP+wuvFNL8B4eQ20EtQtBBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7767.33066</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7767.33066/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 07 Apr 2021 06:24:31 +0760</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7767.33066/Skyle.msi" sparkle:version="1.5.7767.33066" sparkle:os="windows" length="86167552" type="application/octet-stream" sparkle:signature="rtIqEmdaGqQa/pbxMU0phtchpszNr7XDEIZhzA/ArCbsYG3UoGqxwFiHuyaJfF8aNCZY7TB8U2asIO7HDSMNBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7802.34658</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7802.34658/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 12 May 2021 07:17:49 +6090</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7802.34658/Skyle.msi" sparkle:version="1.5.7802.34658" sparkle:os="windows" length="86339584" type="application/octet-stream" sparkle:signature="g8+a1teNm+N7WeI7JafqxPEqEmdLQbZ7/3rXhEF4n6m/RtDrtHszM9m16aP+BrqzT27vNOLHt/QE085WcMyjAg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7803.34483</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7803.34483/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 13 May 2021 07:11:49 +2670</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7803.34483/Skyle.msi" sparkle:version="1.5.7803.34483" sparkle:os="windows" length="86335488" type="application/octet-stream" sparkle:signature="AZZlUL7WEdXBIPlH3+FHzfe/ORyW3Ws1V+/Sr8m/X4q2blYTNH/faOpwc9oJh5oenFDc1WOOWOwhwnCgpv2pDw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7807.29813</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7807.29813/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Mon, 17 May 2021 04:36:14 +8560</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7807.29813/Skyle.msi" sparkle:version="1.5.7807.29813" sparkle:os="windows" length="86335488" type="application/octet-stream" sparkle:signature="77zLXoImBqQJu+TF0FInHHqfkCx4FZeozCEkdEK24yzsZhNzNrkijJTtPk4mE+xsR8YuIQLIgCeI7Pq7/vnMAA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7820.38633</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7820.38633/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Sun, 30 May 2021 09:30:38 +9120</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7820.38633/Skyle.msi" sparkle:version="1.5.7820.38633" sparkle:os="windows" length="86384640" type="application/octet-stream" sparkle:signature="KGOBdH57mJSHq/GPolbPnEZ0pRvrb3rJ6BrwXRglgtw8/vg2vvKzSl31GLebLRaetyofwjb1XKbt4Kp7oGKHDg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7837.38762</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7837.38762/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 16 Jun 2021 09:34:57 +5800</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7837.38762/Skyle.msi" sparkle:version="1.5.7837.38762" sparkle:os="windows" length="86900736" type="application/octet-stream" sparkle:signature="mVOZ/AeokaPSOQT3o2awWGCudbKCtQoOqRJcjYdSh9bhxuYUPKC5kROwhq1EE/+aLw0QYPAATHm7foX/pV0GAg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7871.35155</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7871.35155/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Tue, 20 Jul 2021 07:35:10 +6540</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7871.35155/Skyle.msi" sparkle:version="1.5.7871.35155" sparkle:os="windows" length="86794240" type="application/octet-stream" sparkle:signature="F8SbAfiW16DnCLbsFnV7CsmfaaqM73B/aC5fcfmIGKOkgcrH9XCdEDKUu6x6Oslp5RknnufQs9ODu746p6T2Bg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7893.24956</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7893.24956/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 11 Aug 2021 01:54:49 +5400</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7893.24956/Skyle.msi" sparkle:version="1.5.7893.24956" sparkle:os="windows" length="86745088" type="application/octet-stream" sparkle:signature="6o/J5NMXB6A+REN/xc7DH+VO/6NcYnc1PX+idWyWQCKqGuY9jn4EotgPDAFYOX1A0/7nX3LB3bxAld2DTZDxCg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7893.29082</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7893.29082/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 11 Aug 2021 04:20:39 +4770</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7893.29082/Skyle.msi" sparkle:version="1.5.7893.29082" sparkle:os="windows" length="86745088" type="application/octet-stream" sparkle:signature="2aVThHa5gCZgcEUhJrzn90fQDK0tHY+Tc73bBwAPEc9vlYO0L40kUaDVH1tyhxj+xbDCqn9LdXvclcWHdzO8Cw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7893.31344</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7893.31344/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 11 Aug 2021 05:28:24 +2390</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7893.31344/Skyle.msi" sparkle:version="1.5.7893.31344" sparkle:os="windows" length="86745088" type="application/octet-stream" sparkle:signature="LomB/0v45Y3WRhHhrtbryWJtbDm92cWIz5XSmjiBcKKGVLI1BWx8kyTsfdSS8N8jiKIIUvaOcAuaQu4EqQt9BA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7894.30108</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7894.30108/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 12 Aug 2021 04:46:19 +2730</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7894.30108/Skyle.msi" sparkle:version="1.5.7894.30108" sparkle:os="windows" length="86745088" type="application/octet-stream" sparkle:signature="xX6cBhmeOfNNV55eIO+dyMX3vaRaUgmAuD3Mg7J4mvXsnpb8pm9hFCerSX8DwsfL/OQi/gL6P1oH7DNPBo7zCw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7965.32801</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7965.32801/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Fri, 22 Oct 2021 06:17:21 +3320</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7965.32801/Skyle.msi" sparkle:version="1.5.7965.32801" sparkle:os="windows" length="205082624" type="application/octet-stream" sparkle:signature="4K4rchCo1OiTbglBV32dOWoELBBjCuxqoB732xkaaGNbelk0lIK1GzrPQYp5F+X3p9SsKHuPiD+vVjSEqHBpDg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.7985.31994</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.7985.31994/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 11 Nov 2021 05:50:54 +9120</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.7985.31994/Skyle.msi" sparkle:version="1.5.7985.31994" sparkle:os="windows" length="152076288" type="application/octet-stream" sparkle:signature="B44/03aDGjTMDDrVKwh0ObvMZDn1KNSW2nuWaeJq9j5uXtuXSGx/TApS5fiLWOBJtAVn1XURCNQGjmDwW7SwBA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8069.30493</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8069.30493/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 03 Feb 2022 04:59:20 +3180</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8069.30493/Skyle.msi" sparkle:version="1.5.8069.30493" sparkle:os="windows" length="95277056" type="application/octet-stream" sparkle:signature="35JERREiXjkhsYeoTPbKW9MDgq+pC7hj/I0SSuDtC5+Fz0ZhTlyTmcY3v2uNvhf6GJPJ1Mp4NWrnRCMkskazCA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8076.33972</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8076.33972/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 10 Feb 2022 06:56:27 +8370</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8076.33972/Skyle.msi" sparkle:version="1.5.8076.33972" sparkle:os="windows" length="95252480" type="application/octet-stream" sparkle:signature="nnGKoykQj7u7mtSWtBJBqQDFAR6ZG0PzgzYnRPmACx5io41vaVzdQ0WcX7AWb7noqhISisyf8rAVpBSCWFOiCw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8097.33686</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8097.33686/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 03 Mar 2022 06:45:39 +1320</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8097.33686/Skyle.msi" sparkle:version="1.5.8097.33686" sparkle:os="windows" length="95309824" type="application/octet-stream" sparkle:signature="1Bv0CTdfwl+Vzl61/Xc16xNwMYc8AJXcSyjhxl029KmCpXYQ4babmuBfk6OSWbCKUrowiZmTPYkEpP6SbPWHBQ=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8272.39509</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8272.39509/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 25 Aug 2022 09:59:55 +4980</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8272.39509/Skyle.msi" sparkle:version="1.5.8272.39509" sparkle:os="windows" length="95936512" type="application/octet-stream" sparkle:signature="8W+Pg7tsMjX9JPYXg97VlnCAF7uIsrSitPPw5EkZQfvV5rf3+Xl4b+zhpTUx19Qis/o80AA4foAHGpudPv+BAA=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8272.40493</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8272.40493/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 25 Aug 2022 10:33:09 +5530</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8272.40493/Skyle.msi" sparkle:version="1.5.8272.40493" sparkle:os="windows" length="95936512" type="application/octet-stream" sparkle:signature="8GW9lSmmzgJYIjy1Ni3x/9+nlgb7mSknSMMtRff64NveKLZSia7kV1odCqFxofWc3yVrDYv7Vex8uxYvtxKhCQ=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8278.31104</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8278.31104/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Wed, 31 Aug 2022 05:19:48 +3800</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8278.31104/Skyle.msi" sparkle:version="1.5.8278.31104" sparkle:os="windows" length="96342016" type="application/octet-stream" sparkle:signature="IYgUl+W9qbMLJHOjDuT3ONe0WB18hXPl6xWdGhTGyujpAWcYNLX2//lHXFqSaAp8dOn1+Ws3ntlN3IstDwRNDg=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8279.20748</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8279.20748/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 01 Sep 2022 11:34:26 +8300</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8279.20748/Skyle.msi" sparkle:version="1.5.8279.20748" sparkle:os="windows" length="96342016" type="application/octet-stream" sparkle:signature="mwlozqoLOiSqfDD/szCXyDzwkDhTBErcsMHEeX9dkmAazu5YVbBVx2LSEtyrx67TcqiUCx4wTe/ZMmlOn7l+Cw=="/>
+		</item>
+		<item>
+			<title>Version 1.5.8300.26651</title>
+			<sparkle:releaseNotesLink>https://eyev.de/dl/windows/1.5.8300.26651/notes.md</sparkle:releaseNotesLink>
+			<pubDate>Thu, 22 Sep 2022 03:01:10 +0220</pubDate>
+			<enclosure url="https://eyev.de/dl/windows/1.5.8300.26651/Skyle.msi" sparkle:version="1.5.8300.26651" sparkle:os="windows" length="96342016" type="application/octet-stream" sparkle:signature="XUwzRRVK2rtgbGLHiNBc6KKKh78lZiRh+1pVn6MwaG4OKEbVmCH9BBYAyK2TOiPWiAzse7Jjc/r1I90A3eiwCw=="/>
+		</item>
+	</channel>
+</rss>
