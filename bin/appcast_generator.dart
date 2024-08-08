@@ -161,8 +161,8 @@ class UpdateCommand extends Command {
 }
 
 int main(List<String> arguments) {
-  var exitCode = 0;
-  var cr = CommandRunner('appcast_generator', 'appcast_generator generates Appcast files with certain user input as well as files.')
+  final exitCode = 0;
+  CommandRunner('appcast_generator', 'appcast_generator generates Appcast files with certain user input as well as files.')
     ..addCommand(CreateCommand())
     ..addCommand(AddCommand())
     ..addCommand(UpdateCommand())

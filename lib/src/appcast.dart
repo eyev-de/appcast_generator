@@ -1,4 +1,5 @@
 import 'dart:io';
+
 import 'package:xml/xml.dart';
 
 class Appcast {
@@ -34,16 +35,16 @@ class AppcastUtil {
             final name = childNode.name.toString();
             if (name == 'item') return;
             if (name == 'title') {
-              title = childNode.text;
+              title = childNode.innerText;
             }
             if (name == 'link') {
-              link = childNode.text;
+              link = childNode.innerText;
             }
             if (name == 'description') {
-              description = childNode.text;
+              description = childNode.innerText;
             }
             if (name == 'language') {
-              language = childNode.text;
+              language = childNode.innerText;
             }
           }
         });
@@ -70,9 +71,9 @@ class AppcastUtil {
           if (childNode is XmlElement) {
             final name = childNode.name.toString();
             if (name == AppcastConstants.ElementTitle) {
-              title = childNode.text;
+              title = childNode.innerText;
             } else if (name == AppcastConstants.ElementDescription) {
-              itemDescription = childNode.text;
+              itemDescription = childNode.innerText;
             } else if (name == AppcastConstants.ElementEnclosure) {
               childNode.attributes.forEach((XmlAttribute attribute) {
                 if (attribute.name.toString() == AppcastConstants.AttributeVersion) {
@@ -88,11 +89,11 @@ class AppcastUtil {
                 }
               });
             } else if (name == AppcastConstants.ElementMaximumSystemVersion) {
-              maximumSystemVersion = childNode.text;
+              maximumSystemVersion = childNode.innerText;
             } else if (name == AppcastConstants.ElementMinimumSystemVersion) {
-              minimumSystemVersion = childNode.text;
+              minimumSystemVersion = childNode.innerText;
             } else if (name == AppcastConstants.ElementPubDate) {
-              dateString = childNode.text;
+              dateString = childNode.innerText;
             } else if (name == AppcastConstants.ElementTags) {
               childNode.children.forEach((XmlNode tagChildNode) {
                 if (tagChildNode is XmlElement) {
@@ -101,9 +102,9 @@ class AppcastUtil {
                 }
               });
             } else if (name == AppcastConstants.AttributeVersion) {
-              itemVersion = childNode.text;
+              itemVersion = childNode.innerText;
             } else if (name == AppcastConstants.ElementReleaseNotesLink) {
-              releaseNotes = childNode.text;
+              releaseNotes = childNode.innerText;
             }
           }
         });
@@ -220,6 +221,7 @@ class AppcastUtil {
       print(error);
     }
     print(error);
+    return null;
   }
 }
 
